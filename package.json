@@ -31,7 +31,7 @@
     "pug": "2.0.3",
     "raw-body": "2.4.1",
     "request": "2.88.0",
-    "socket.io": "2.2.0",
+    "socket.io": "2.4.0",
     "stream-buffers": "3.0.2",
     "streamifier": "0.1.1",
     "stripe": "7.5.0",
